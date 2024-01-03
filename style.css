@@ -119,7 +119,7 @@ body{
 .desc1{
     padding-left: 200px;
     display: flex;
-    justify-content: left;
+    justify-content:left;
     font-size: 22px;
     font-weight: normal;
     font-family: 'Barlow', sans-serif;
